@@ -1,0 +1,13 @@
+body {
+    background-color: gray;
+}
+
+div {
+    background-color: crimson;
+    width: 100px;
+    
+}
+
+input {
+    padding: 5px;
+}
